@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "malaDataManager", "malaData
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "malaData", "malaData\malaData.sqlproj", "{C61AC10E-FFC2-4B7A-ABA4-F8397E2FAD71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRMDesktopUI", "TRMDesktopUI\TRMDesktopUI.csproj", "{B0A9C566-61E3-490D-A822-DF68CEC7B126}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{C61AC10E-FFC2-4B7A-ABA4-F8397E2FAD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C61AC10E-FFC2-4B7A-ABA4-F8397E2FAD71}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C61AC10E-FFC2-4B7A-ABA4-F8397E2FAD71}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B0A9C566-61E3-490D-A822-DF68CEC7B126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A9C566-61E3-490D-A822-DF68CEC7B126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A9C566-61E3-490D-A822-DF68CEC7B126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A9C566-61E3-490D-A822-DF68CEC7B126}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
